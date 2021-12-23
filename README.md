@@ -6,7 +6,7 @@ Create a replit project in bash
 
 Copy the code given below to main.sh file
 
-```
+```yaml
 if [[ ! -d code-server-3.12.0-linux-amd64 ]]
 then
     wget https://github.com/cdr/code-server/releases/download/v3.12.0/code-server-3.12.0-linux-amd64.tar.gz
